@@ -1,0 +1,9 @@
+E:\AarelWelcomeApi\publish\AarelWelcomeApi
+E:\AarelWelcomeApi\publish\appsettings.Development.json
+E:\AarelWelcomeApi\publish\appsettings.json
+E:\AarelWelcomeApi\publish\AarelWelcomeApi.dll
+E:\AarelWelcomeApi\publish\AarelWelcomeApi.deps.json
+E:\AarelWelcomeApi\publish\AarelWelcomeApi.runtimeconfig.json
+E:\AarelWelcomeApi\publish\AarelWelcomeApi.pdb
+E:\AarelWelcomeApi\publish\Microsoft.AspNetCore.OpenApi.dll
+E:\AarelWelcomeApi\publish\Microsoft.OpenApi.dll
